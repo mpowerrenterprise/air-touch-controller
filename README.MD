@@ -2,46 +2,30 @@
 
 ## Introduction
 
-It is a simple Selenium Python script that uses an online OCR platform (https://www.onlineocr.net/) to automate the OCR process. This simple script could be used to convert digital images' text in to digital text in doc, txt, xls formats.
+A simple prototype for hand gesture detection that presses up-arrow key when the index finger is shown, it is used to build technology that could be triggered with hand gesture, Example: turning on air-conditioner,TV, lights with hand gesture.
 
-
-![Image](github-readme-contents/ocr-platform.jpg)
 
 
 ## Technology and Frameworks
 
 - Python 3.6
-- pyttsx3
-- argparse
-- selenium
+- OpenCV
+- pynput
 
-
-## Directory Structure
-
-- **0-input-data** : Input folder | Place to put digital images
-- **1-output-data**   : Output folder | Place to put store output files.
-
-- **github-readme-contents**   : Contains GitHub readme assets.
 
 
 ## Configuration & Setup
 
-- Install pyttsx3
+- Install OpenCV
 
   ```
-  pip install pyttsx3
+  pip install opencv-python
   ```
 
-- Install argparse
+- Install pynput
 
   ```
-  pip install argparse
-  ```
-
-- Install selenium
-
-  ```
-  pip install selenium
+  pip install pynput
   ```
 
 ## Execution
@@ -49,29 +33,15 @@ It is a simple Selenium Python script that uses an online OCR platform (https://
 - **Note:** Put all input digital images in "0-input-data".
 
 
-![Image](github-readme-contents/input-files.jpg)
-
-### Execution Commands
-
-- **Doc File Process**
-
   ```
-  python run.py -t doc
+  python run.py
   ```
 
-- **Text File Process**
+## Demo
 
-  ```
-  python run.py -t txt
-  ```
+![IMAGE](github-readme-contents/demo-1.gif)
 
-- **Xlsx File Process**
-
-  ```
-  python run.py -t xls
-  ```
-
-
+![IMAGE](github-readme-contents/demo-2.gif)
 ## Social Media Links
 
 * [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam/)
