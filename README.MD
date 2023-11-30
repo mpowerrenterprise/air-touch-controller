@@ -1,12 +1,12 @@
-# Automatic OCR With Selenium
+# Air Touch Controller
 
-## Introduction
+## 01 Introduction
 
 A simple prototype for hand gesture detection that presses up-arrow key when the index finger is shown, it is used to build technology that could be triggered with hand gesture, Example: turning on air-conditioner,TV, lights with hand gesture.
 
 
 
-## Technology and Frameworks
+## 02 Technology and Frameworks
 
 - Python 3.6
 - OpenCV
@@ -14,7 +14,7 @@ A simple prototype for hand gesture detection that presses up-arrow key when the
 
 
 
-## Configuration & Setup
+## 03 Configuration & Setup
 
 - Install OpenCV
 
@@ -28,7 +28,7 @@ A simple prototype for hand gesture detection that presses up-arrow key when the
   pip install pynput
   ```
 
-## Execution
+## 04 Usage
 
 - **Note:** Put all input digital images in "0-input-data".
 
@@ -37,7 +37,7 @@ A simple prototype for hand gesture detection that presses up-arrow key when the
   python run.py
   ```
 
-## Demo
+## 05 Output
 
 ![IMAGE](github-readme-contents/demo-1.gif)
 
