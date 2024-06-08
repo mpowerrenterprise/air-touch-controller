@@ -38,6 +38,8 @@ python source/main.py
 
 # Contact
 
+## Contact
+
 Website:
 
  [www.gunarakulan.info](http://www.gunarakulan.info)
@@ -47,7 +49,7 @@ Social Media:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-E01E5A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunarakulangunaretnam)
 [![Facebook](https://img.shields.io/badge/-Facebook-E01E5A?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gunarakulangunaretnam)
 [![Instagram](https://img.shields.io/badge/-Instagram-E01E5A?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gunarakulangunaretnam)
-[![Twitter](https://img.shields.io/badge/-Twitter-E01E5A?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/gunarakulangr)
+[![X](https://img.shields.io/badge/-X-E01E5A?style=flat-square&logo=twitter&logoColor=white)](https://x.com/gunarakulangr)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-E01E5A?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/gunarakulangr)
 [![TikTok](https://img.shields.io/badge/-TikTok-E01E5A?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gunarakulangunaretnam)
 [![YouTube](https://img.shields.io/badge/-YouTube-E01E5A?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
