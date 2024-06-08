@@ -38,22 +38,16 @@ python source/main.py
 
 # Contact
 
-Website:
-
-[www.gunarakulan.info](http://www.gunarakulan.info)
+Website: [www.gunarakulan.info](http://www.gunarakulan.info)
+Email: [contact@gunarakulan.info](mailto:contact@gunarakulan.info)
+Phone: [\[+94740001141\]](tel:+94740001141)
 
 Social Media:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-E01E5A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunarakulangunaretnam)
 [![Facebook](https://img.shields.io/badge/-Facebook-E01E5A?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gunarakulangunaretnam)
 [![Instagram](https://img.shields.io/badge/-Instagram-E01E5A?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gunarakulangunaretnam)
-[![X](https://img.shields.io/badge/-X.COM-E01E5A?style=flat-square&logo=x&logoColor=white&labelColor=E01E5A)](https://x.com/gunarakulangr)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/94740001141)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-E01E5A?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/gunarakulangr)
 [![TikTok](https://img.shields.io/badge/-TikTok-E01E5A?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gunarakulangunaretnam)
 [![YouTube](https://img.shields.io/badge/-YouTube-E01E5A?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
-
-
-
-
-
-
