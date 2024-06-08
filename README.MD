@@ -38,8 +38,7 @@ python source/main.py
 
 ## Contact
 
-Website: [www.gunarakulan.info](http://www.gunarakulan.info)
-
+- [![Website](https://img.shields.io/badge/-Website-ff69b4?style=flat-square&logo=google-chrome&logoColor=white)](http://www.gunarakulan.info)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunarakulangunaretnam)
 - [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gunarakulangunaretnam)
 - [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gunarakulangunaretnam)
@@ -47,4 +46,5 @@ Website: [www.gunarakulan.info](http://www.gunarakulan.info)
 - [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/gunarakulangr)
 - [![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gunarakulangunaretnam)
 - [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
+
 
