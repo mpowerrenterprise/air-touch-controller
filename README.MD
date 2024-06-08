@@ -49,7 +49,7 @@ Social Media:
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-07a647?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/94740001141)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-3295bd?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/gunarakulangr)
 [![TikTok](https://img.shields.io/badge/-TikTok-579ea3?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gunarakulangunaretnam)
-[![YouTube](https://img.shields.io/badge/-YouTube-a82121?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)(https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
+[![YouTube](https://img.shields.io/badge/-YouTube-a82121?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
 
 
 
