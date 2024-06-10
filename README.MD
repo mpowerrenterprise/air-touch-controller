@@ -1,8 +1,8 @@
-# AIR TOUCH CONTROLLER
+# Air Touch Controller
 
 ## 01 Introduction
 
-A simple prototype for hand gesture detection that presses up-arrow key when the index finger is shown, it is used to build technology that could be triggered with hand gesture, Example: turning on air-conditioner,TV, lights with hand gesture.
+A simple prototype for hand gesture detection, wherein the up-arrow key is pressed upon detecting the index finger, is the cornerstone for groundbreaking technology triggered by hand gestures. This innovation transcends traditional controls, offering a seamless interface for interacting with various devices. Imagine effortlessly turning on the air-conditioner, adjusting the TV volume, or dimming the lights—all with intuitive hand movements. This prototype marks the inception of a transformative era where human-computer interaction is redefined, promising unparalleled convenience and efficiency in our daily lives.
 
 ## 02 Technology Stack
 
@@ -36,7 +36,7 @@ python source/main.py
 
 ![DEMO 2](docs/media/demo-2.gif)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
